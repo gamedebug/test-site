@@ -13,7 +13,7 @@ if ($conn->connect_error) {
     die("连接失败: " . $conn->connect_error);
 } 
  
-$sql = "SELECT id, firstname, lastname FROM MyGuests";
+$sql = "SELECT ID, Name FROM games";
 $result = $conn->query($sql);
  
 if ($result->num_rows > 0) {
