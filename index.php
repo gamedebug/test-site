@@ -4,7 +4,7 @@
 <body>
 <table border="0">
 <tr>
-<td>网络游戏列表</td>
+<td><b>网络游戏列表</b></td>
 </tr>
 <table boder="0">
 <tr>
